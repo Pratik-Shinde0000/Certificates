@@ -1,2 +1,0 @@
-# Certificates
-All my certificates
